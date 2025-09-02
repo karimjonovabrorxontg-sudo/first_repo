@@ -1,0 +1,31 @@
+.miami{
+    width: 1260px;
+    height: 128px;  
+    background: url(./assets/Layer\ 43@1\,5x.png);
+} 
+.miamitext .menu{
+  padding-left: 120px;
+}  
+.miamitext img{
+    margin-top: 24px;
+    margin-left: 410px;
+}
+.miamitext p{
+    margin-left: 966px;
+    margin-top: -35px;
+    font-family: Roboto;
+font-weight: 700;
+font-size: 12px;
+leading-trim: NONE;
+line-height: 16px;
+letter-spacing: 2px;
+vertical-align: middle;
+text-transform: uppercase;
+color: #ffffff;
+} 
+.miamitext .call{
+    margin-left: 1120px;
+    background-color: red;
+    margin-top: -40px;
+    position: absolute;
+}
